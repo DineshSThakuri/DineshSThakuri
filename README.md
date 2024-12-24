@@ -1,3 +1,5 @@
+![logo](https://github.com/DineshSThakuri/DineshSThakuri/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Dnes ST</h1>
 <h3 align="center">A passionate software Developer from Nepal</h3>
 
