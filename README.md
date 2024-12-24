@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshsthakuri&label=Profile%20views&color=0e75b6&style=flat" alt="dineshsthakuri" /> </p>
 
-- 📄 Know about my experiences [file:///E:/MY%20Document/New%20CV.pdf](file:///E:/MY%20Document/New%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
